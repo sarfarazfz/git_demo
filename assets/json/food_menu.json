@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "001",
+      "name": "Margherita Pizza",
+      "description": "Classic wood-fired pizza with fresh mozzarella, basil, and tomatoes.",
+      "price": 8.99,
+      "category": "Pizza",
+      "availability": true,
+      "image_url": "https://example.com/images/margherita_pizza.jpg"
+    },
+    {
+      "id": "002",
+      "name": "Spaghetti Carbonara",
+      "description": "Creamy spaghetti tossed with pancetta, egg, and Parmesan.",
+      "price": 10.50,
+      "category": "Pasta",
+      "availability": true,
+      "image_url": "https://example.com/images/carbonara.jpg"
+    },
+    {
+      "id": "003",
+      "name": "Chicken Tikka Masala",
+      "description": "Grilled chicken in spiced tomato and cream sauce served with rice.",
+      "price": 11.00,
+      "category": "Indian",
+      "availability": true,
+      "image_url": "https://example.com/images/tikka_masala.jpg"
+    },
+    {
+      "id": "004",
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce, Parmesan, and croutons with Caesar dressing.",
+      "price": 6.75,
+      "category": "Salads",
+      "availability": true,
+      "image_url": "https://example.com/images/caesar_salad.jpg"
+    },
+    {
+      "id": "005",
+      "name": "Veggie Burger",
+      "description": "Grilled veggie patty with lettuce, tomato, and avocado on a toasted bun.",
+      "price": 9.25,
+      "category": "Burgers",
+      "availability": true,
+      "image_url": "https://example.com/images/veggie_burger.jpg"
+    },
+    {
+      "id": "006",
+      "name": "Sushi Platter",
+      "description": "Assorted nigiri and rolls served with soy sauce and wasabi.",
+      "price": 14.00,
+      "category": "Japanese",
+      "availability": true,
+      "image_url": "https://example.com/images/sushi_platter.jpg"
+    },
+    {
+      "id": "007",
+      "name": "Butter Naan",
+      "description": "Soft Indian flatbread brushed with butter, perfect with curries.",
+      "price": 2.99,
+      "category": "Indian",
+      "availability": true,
+      "image_url": "https://example.com/images/butter_naan.jpg"
+    },
+    {
+      "id": "008",
+      "name": "Grilled Salmon",
+      "description": "Tender salmon fillet grilled to perfection with lemon-dill sauce.",
+      "price": 13.50,
+      "category": "Seafood",
+      "availability": true,
+      "image_url": "https://example.com/images/grilled_salmon.jpg"
+    },
+    {
+      "id": "009",
+      "name": "Pad Thai",
+      "description": "Stir-fried rice noodles with tofu, peanuts, egg, and tamarind sauce.",
+      "price": 9.75,
+      "category": "Thai",
+      "availability": true,
+      "image_url": "https://example.com/images/pad_thai.jpg"
+    },
+    {
+      "id": "010",
+      "name": "Beef Tacos",
+      "description": "Three corn tortillas filled with seasoned beef, lettuce, and cheese.",
+      "price": 8.25,
+      "category": "Mexican",
+      "availability": true,
+      "image_url": "https://example.com/images/beef_tacos.jpg"
+    },
+    {
+      "id": "011",
+      "name": "Falafel Wrap",
+      "description": "Chickpea falafel with tahini sauce and fresh veggies in pita bread.",
+      "price": 7.95,
+      "category": "Middle Eastern",
+      "availability": true,
+      "image_url": "https://example.com/images/falafel_wrap.jpg"
+    },
+    {
+      "id": "012",
+      "name": "French Fries",
+      "description": "Crispy golden fries served with ketchup or aioli.",
+      "price": 3.50,
+      "category": "Sides",
+      "availability": true,
+      "image_url": "https://example.com/images/french_fries.jpg"
+    },
+    {
+      "id": "013",
+      "name": "Greek Yogurt Parfait",
+      "description": "Layers of yogurt, granola, and berries served in a glass.",
+      "price": 4.99,
+      "category": "Desserts",
+      "availability": true,
+      "image_url": "https://example.com/images/parfait.jpg"
+    },
+    {
+      "id": "014",
+      "name": "Lemon Iced Tea",
+      "description": "Refreshing chilled tea with a splash of lemon.",
+      "price": 2.50,
+      "category": "Beverages",
+      "availability": true,
+      "image_url": "https://example.com/images/lemon_iced_tea.jpg"
+    },
+    {
+      "id": "015",
+      "name": "Mango Lassi",
+      "description": "Creamy Indian yogurt drink blended with ripe mangoes.",
+      "price": 3.75,
+      "category": "Beverages",
+      "availability": true,
+      "image_url": "https://example.com/images/mango_lassi.jpg"
+    }
+  ]
+}
