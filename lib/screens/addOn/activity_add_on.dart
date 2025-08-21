@@ -5,7 +5,7 @@ class ActivityAddOn extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Add-On Screen"),),
+      appBar: AppBar(title: const Text("Add On"),),
     );
   }
 }
